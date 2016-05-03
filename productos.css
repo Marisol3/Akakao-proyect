@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Chocolate Akakau</title>
+
+	<link rel="stylesheet" type="text/css" href="css/grid-system.css">
+	<link rel="stylesheet" type="text/css" href="css/utilities.css">
+
+
+
+	<body>
+
+	<div class="header">
+		<h1 id="tit_menu">ESCUELA DE DANZA</h1>
+		<ul class="menu">
+			<li><a href="index.html">Inicio</a></li>
+			<li><a href="nosotros.html">Nosotros</a></li>
+			<li><a href="clases.html">Clases</a></li>
+			<li><a href="blog.html">Blog</a></li>
+			<li><a href="#contact">Contáctanos</a></li>
+		</ul>
+	</div>
